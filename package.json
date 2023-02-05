@@ -1,0 +1,19 @@
+{
+  "name": "exersice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginpage.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepr-19/exersice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepr-19/exersice/issues"
+  },
+  "homepage": "https://github.com/sandeepr-19/exersice#readme"
+}
